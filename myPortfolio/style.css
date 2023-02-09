@@ -1,0 +1,19 @@
+*{
+    margin: 0; /* khoảng trống giữa viền và phần tử tiếp theo */
+    padding: 0; /* khoảng trống giữa nội dung và viền */
+}
+ul{
+    list-style: none;
+    /* làm mất dấu chấm trước các li */
+}
+body{
+    background-color: #f8f8f8;
+    color: #1c1b1b;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+a{
+    color: #555;
+    font-weight: 600;
+}
